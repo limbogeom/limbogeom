@@ -1,41 +1,80 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vladyslav+S.;Python+%7C+C%2B%2B+%7C+Linux;Building.+Breaking.+Learning." />
+</p>
 
-###
+🚀 I started programming when I was just **9 years old**.  
+I began with **HTML, CSS, and browser JavaScript** 🌐 and gradually moved toward more serious technologies.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-</div>
+🐍 **Python** became my main language — I have been working with Python for ~4 years, focusing on real-world projects.
 
-###
+⚙️ Along the way, I also learned **C++**, which I plan to use more actively in future projects.
 
-<div align="center">
-  <a href="https://x.com/limbogeom" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
+🔎 Feel free to explore my repositories  
+📩 Open to communication in **DMs**
 
-###
+---
 
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=limbogeom&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+## 🧩 Tech Stack & Badges
 
-###
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/limbogeom/limbogeom/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/limbogeom/limbogeom/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/limbogeom/limbogeom/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+## 🛠 Languages & Experience
+
+| Language | Experience | Projects | ⭐ Stars |
+|--------|------------|----------|---------|
+| 🐍 **Python** | ~4 years | Homei, Mermes, ArgonLock, math projects... | ⭐⭐⭐⭐⭐ |
+| ⚙️ **C++** | ~1 year | – | ⭐⭐ |
+| ✨ **JavaScript** | ~2 years | – | ⭐⭐ |
+| 🌐 **HTML / CSS** | ~5 years | Homei, KIT | ⭐⭐⭐⭐ |
+
+---
+
+## 📌 Featured Projects
+
+### 🐍 Python
+- 🏠 **Homei 2.0** — *Coming soon...*  
+- 🚦 **Mermes** — simple and useful traffic generator  
+- 🔐 **ArgonLock** — simple key lock with **TOTP** authentication  
+
+### ⚙️ C++
+- 🛠 *Not yet in production, but actively learning, experimenting, and improving*
+
+---
+
+## 📊 GitHub Stats
+
+![Vladyslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=limbogeom&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=limbogeom&theme=dark&hide_border=true)
+
+---
+
+## 🎯 Goals for 2026
+- 🚀 Release **Homei 2.0**
+- 🧠 Go deeper into **algorithms & math**
+- ⚙️ Build **real C++ projects**
+- 🌍 Contribute to **open-source**
+
+---
+
+## 🧠 Currently
+- 🧩 Improving problem-solving & algorithms  
+- 🚀 Building real-world projects  
+- ⚙️ Expanding **C++** usage  
+
+---
+
+## 🌍 Contact
+- 💬 GitHub DMs  
+- 📧 Email — *on request*  
+
+---
+
+> 💡 *Always learning. Always building.*
