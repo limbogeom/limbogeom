@@ -76,6 +76,6 @@ I began with **HTML, CSS, and browser JavaScript** 🌐 and gradually moved towa
 - 📧 Email — *on request*  
 
 ---
-**see my other portfolio** - limbogeom.github.io
+**see my other portfolio** - https://limbogeom.github.io
 
 > 💡 *Always learning. Always building.*
