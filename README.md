@@ -67,7 +67,7 @@ I began with **HTML, CSS, and browser JavaScript** 🌐 and gradually moved towa
 ## 🧠 Currently
 - 🧩 Improving problem-solving & algorithms  
 - 🚀 Building real-world projects  
-- ⚙️ Expanding **C++** usage  
+- ⚙️ Learning about more APIs and services 
 
 ---
 
