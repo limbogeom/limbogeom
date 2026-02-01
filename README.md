@@ -42,7 +42,8 @@ I began with **HTML, CSS, and browser JavaScript** 🌐 and gradually moved towa
 ### 🐍 Python
 - 🏠 **Homei 2.0** — *Coming soon...*  
 - 🚦 **Mermes** — simple and useful traffic generator  
-- 🔐 **ArgonLock** — simple key lock with **TOTP** authentication  
+- 🔐 **ArgonLock** — simple key lock with **TOTP** authentication
+- ⛅️ **WeatherOracle** - cool IoT project that use flask and esp32 to communicate and share weather information 
 
 ### ⚙️ C++
 - 🛠 *Not yet in production, but actively learning, experimenting, and improving*
