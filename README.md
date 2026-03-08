@@ -58,10 +58,9 @@ I began with **HTML, CSS, and browser JavaScript** 🌐 and gradually moved towa
 ---
 
 ## 🎯 Goals for 2026
-- 🚀 Release **Homei 2.0**
 - 🧠 Go deeper into **algorithms & math**
-- ⚙️ Build **real C++ projects**
 - 🌍 Contribute to **open-source**
+- 🐕 Make a lot of cool **pet projects**
 
 ---
 
