@@ -34,6 +34,7 @@ I began with **HTML, CSS, and browser JavaScript** 🌐 and gradually moved towa
 | ⚙️ **C++** | ~1 year | – | ⭐⭐ |
 | ✨ **JavaScript** | ~2 years | – | ⭐⭐ |
 | 🌐 **HTML / CSS** | ~5 years | Homei, KIT | ⭐⭐⭐⭐ |
+| 🧪 **Flask and relations (flask-sqlalchemy ...)** | ~ 4 month | WeatherOracle, TODO list ... |  ⭐⭐⭐ |
 
 ---
 
