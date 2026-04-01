@@ -45,7 +45,7 @@ I began with **HTML, CSS, and browser JavaScript** 🌐 and gradually moved towa
 - 🔐 **ArgonLock** — simple key lock with **TOTP** authentication
 - ⛅️ **WeatherOracle** - cool IoT project that uses flask and esp32 to communicate and share weather information
 - 🏡 **gm-osint** - OSINT tool to find nearby objects in different areas
-- 🤳🏻 **bloger** - in developing... but already in public 
+- 🤳🏻 **bloger** - in developing...
 
 ### ⚙️ C++
 - 🛠 *Not yet in production, but actively learning, experimenting, and improving*
