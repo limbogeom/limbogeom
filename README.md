@@ -31,7 +31,7 @@ I began with **HTML, CSS, and browser JavaScript** 🌐 and gradually moved towa
 | Language | Experience | Projects | ⭐ Stars |
 |--------|------------|----------|---------|
 | 🐍 **Python** | ~4 years | Homei, Mermes, ArgonLock, math projects... | ⭐⭐⭐⭐⭐ |
-| ⚙️ **C++** | ~1.6 years | – | ⭐⭐ |
+| ⚙️ **C++** | ~1.6 years | atomicBrowser | ⭐⭐ |
 | ✨ **JavaScript** | ~2 years | – | ⭐⭐ |
 | 🌐 **HTML / CSS** | ~5 years | Homei, KIT | ⭐⭐⭐⭐ |
 | 🧪 **Flask and relations (flask-sqlalchemy ...)** | ~ 4 month | WeatherOracle, TODO list ... |  ⭐⭐⭐ |
@@ -48,8 +48,8 @@ I began with **HTML, CSS, and browser JavaScript** 🌐 and gradually moved towa
 - 🤳🏻 **bloger** - in developing...
 
 ### ⚙️ C++
-- 🛠 *Not yet in production, but actively learning, experimenting, and improving*
-
+- ⚛️ **atomicBrowser** — simple web browser fully in console with only basic tags for better
+productivity on old laptops/PC's
 ---
 
 ## 📊 GitHub Stats
