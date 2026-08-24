@@ -30,11 +30,11 @@ I began with **HTML, CSS, and browser JavaScript** 🌐 and gradually moved towa
 
 | Language | Experience | Projects | ⭐ Stars |
 |--------|------------|----------|---------|
-| 🐍 **Python** | ~4 years | Homei, Mermes, ArgonLock, math projects... | ⭐⭐⭐⭐⭐ |
-| ⚙️ **C++** | ~1.6 years | atomicBrowser | ⭐⭐ |
-| ✨ **JavaScript** | ~2 years | – | ⭐⭐ |
-| 🌐 **HTML / CSS** | ~5 years | Homei, KIT | ⭐⭐ |
-| 🧪 **Flask and relations (flask-sqlalchemy ...)** | ~ 4 month | WeatherOracle, TODO list ... |  ⭐⭐⭐ |
+| 🐍 **Python** | ~5 years | Homei, Mermes, ArgonLock, math projects... | ⭐⭐⭐⭐⭐ |
+| ⚙️ **C++** | ~2.5 years | atomicBrowser | ⭐⭐ |
+| ✨ **JavaScript** | ~3 years | – | ⭐⭐ |
+| 🌐 **HTML / CSS** | ~6 years | Homei, KIT | ⭐⭐ |
+| 🧪 **Flask and relations (flask-sqlalchemy ...)** | ~ 7 month | WeatherOracle, TODO list ... |  ⭐⭐⭐ |
 | ⚡ **FastAPI** | ~ 5 month | - | ⭐⭐⭐ |
 | ✈️ **Aiogram** | ~ 2 month | private repositories | ⭐⭐ |
 
