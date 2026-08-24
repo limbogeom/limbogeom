@@ -35,7 +35,8 @@ I began with **HTML, CSS, and browser JavaScript** 🌐 and gradually moved towa
 | ✨ **JavaScript** | ~2 years | – | ⭐⭐ |
 | 🌐 **HTML / CSS** | ~5 years | Homei, KIT | ⭐⭐ |
 | 🧪 **Flask and relations (flask-sqlalchemy ...)** | ~ 4 month | WeatherOracle, TODO list ... |  ⭐⭐⭐ |
-| ⚡ **FastAPI** | ~ 2 month | - | ⭐⭐⭐ |
+| ⚡ **FastAPI** | ~ 5 month | - | ⭐⭐⭐ |
+| ✈️ **Aiogram** | ~ 2 month | private repositories | ⭐⭐ |
 
 ---
 
@@ -68,9 +69,9 @@ productivity on old laptops/PC's
 ---
 
 ## 🧠 Currently
-- 🧩 Improving problem-solving & algorithms  
-- 🚀 Building bloger app 
-- ⚙️ Learning about more APIs and services 
+- 🧩 Improving my portfolio
+- 🚀 Building telegram store
+- ⚙️ Learning more about analysis
 
 ---
 
